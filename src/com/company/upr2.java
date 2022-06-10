@@ -6,7 +6,7 @@ public class upr2 {
 
     public static void ASCII() {
         char i;
-        for (i = 33; i <= 128; i++) {
+        for (i = 32; i <= 128; i++) {
 
             System.out.println((int) i + " " + i);
         }
